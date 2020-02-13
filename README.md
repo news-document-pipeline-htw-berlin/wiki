@@ -8,6 +8,8 @@ Implementierung einer Dokumenten-Pipeline für Nachrichtenartikel
 
 Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/FinalePraesentation31_01_2020.pdf) anschauen.
 
+[=> _Hier_](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/wiki/Sonstiges) ein Überblick über die Virtuelle Maschine und die laufenden Dienste.
+
 
 ## 1. Crawler
 
