@@ -6,7 +6,7 @@ Implementierung einer Dokumenten-Pipeline für Nachrichtenartikel
 ![alt text](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/I%20News.png "Architecture iNews-Pipeline")
 
 
-Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/FinalePraesentation31_01_2020.pdf) angucken.
+Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/FinalePraesentation31_01_2020.pdf) anschauen.
 
 
 ## 1. Crawler
@@ -43,7 +43,7 @@ aktuell:
 - Lesezeit 
 - relevanteste Wörter bzw. Objekte (nach Tf-Idf)
 - Lemmas
-- Zuordnung eines Departments
+- Zuordnung eines oder mehrerer Departments
 
 geschrieben in Scala
 
