@@ -85,19 +85,19 @@ Aufgaben:
 
 geschrieben in Scala mit der [Akka-Library](https://akka.io/)
 
-#### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/Backend)
+#### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/HTTP-API)
 
 
 ## 6. Frontend
 
-mit [ReactJS](https://reactjs.org)
+mit [ReactJS](https://reactjs.org) geschrieben
 
 - 2011 innerhalb von Facebook entwickelt
 - Komponenten
 - State und Props
 - Virtual DOM
 
-Libraries:
+und folgenden Libraries:
 - [react-router](https://github.com/ReactTraining/react-router)
 - [MaterialUI](https://material-ui.com)
 - [react-vis](https://uber.github.io/react-vis)
