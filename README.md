@@ -108,4 +108,56 @@ und folgenden Libraries:
 
 #### [=> _nginx config file_](https://github.com/I-News-Pipeline-HTW-Berlin/miscellaneous/blob/master/default.conf)
 
+## 7. Autoren
+
+Technologien:
+
+- [Spark](https://spark.apache.org)
+
+- [SparkMongo](https://docs.mongodb.com/spark-connector/master/scala-api)
+
+
+Aufgaben: 
+
+- die Autoren der verarbeiteten Artikel aus der NLP Pipeline analysieren
+
+
+
+aktuell: 
+
+- anzahl der Artikel pro Tag je Autor 
+
+- anzahl der Artikel pro Kategorie je Autor
+
+- anzahl der Artikel pro Website je Autor
+
+- durchschnittliches Sentiment pro Tag
+
+- durchschnittliches Sentiment pro Kategorie
+
+- anzahl der Wörter für die letzten fünf Artikel
+
+- trust score
+
+
+geschrieben in Scala
+
+### Mögliche Verbesserungen
+
+- komplexere Berechnung des Trust Scores
+
+- komplexere Analysen:
+  - Welche Autoren schreiben häufig zusammen?
+  - Schreiben die Autorenpaare gewöhnlicherweise in der gleichen Kategorie?
+  - Haben die Paare ähnliche Lücken in der nichts geschrieben wurde? 
+  - Hebt sich Sentiment oder Wortanzahl wenn die Autoren zusammen schreiben, oder senkt sie sich sogar?
+  - Wann schreibt der Autor **(Veröffentlichungsdatum != Verfassungsdatum)**
+
+Bei weiteren Anreizen empfiehlt es sich das Video zum SpiegelMining anzusehen
+
+
+#### [=> _Repository/Readme_](https://github.com/news-document-pipeline-htw-berlin/Authors)
+
+
+
 
