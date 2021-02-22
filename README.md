@@ -31,25 +31,38 @@ geschrieben in Python
 #### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/crawler)
 
 
-## 2. UIMA
+
+## 2. Analyse
 
 Technologien:
-- [UIMA](https://uima.apache.org)
-- [DKPro](https://dkpro.github.io)
 - [Spark](https://spark.apache.org)
+- [Spark NLP](https://nlp.johnsnowlabs.com)
+- [sbt assembly](https://github.com/sbt/sbt-assembly)
 
 Aufgaben: 
-- die gescrapten Artikel analysieren 
+- gescrapte Artikel analysieren hinsichtlich:
 
-aktuell: 
-- Lesezeit 
-- relevanteste Wörter bzw. Objekte (nach Tf-Idf)
-- Lemmas
-- Zuordnung eines oder mehrerer Departments
+  - Sentiment Analysis
+  - Named Entity Recognition (details siehe Readme)
+  - Generierte Textzusammenfassung basierend auf extrahierten Keywords
+  - Lesezeit 
+  - relevanteste Wörter bzw. Objekte (Yake)
+  - Lemmas
+  - Zuordnung eines oder mehrerer Departments
 
 geschrieben in Scala
 
-#### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/uima-pipeline)
+### Mögliche Verbesserungen
+
+- Performanceverbesserung hinsichtlich des Preprocessings
+- Textzusammenfassung komplexer gestalten
+- Vergleich verschiedener Textzusammenfassungsalgorithmen (Yake vs. TF-IDF)
+- Kategorien der Named-Entity-Recognition im FrontEnd visualisieren
+- Speicherkonzept in der Datenbank überdenken
+
+
+#### [=> _Repository/Readme_](https://github.com/news-document-pipeline-htw-berlin/Analytics)
+
 
 
 ## 3. mongoDB
