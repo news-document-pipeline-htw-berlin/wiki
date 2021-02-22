@@ -114,12 +114,21 @@ und folgenden Libraries:
 - [react-router](https://github.com/ReactTraining/react-router)
 - [MaterialUI](https://material-ui.com)
 - [react-vis](https://uber.github.io/react-vis)
+- [axios](https://github.com/axios/axios)
+- [js-cookies](https://github.com/js-cookie/js-cookie)
+- [jwt-decode](https://github.com/auth0/jwt-decode)
+- [jwt-encode](https://www.npmjs.com/package/jwt-encode)
 
 #### [=> _Frontend im Projekt_](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/wiki/Frontend)
 
-#### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/Frontend)
+#### [=> _Repository/Readme_](https://github.com/news-document-pipeline-htw-berlin/Frontend)
 
-#### [=> _nginx config file_](https://github.com/I-News-Pipeline-HTW-Berlin/miscellaneous/blob/master/default.conf)
+#### [=> _nginx config file_](https://github.com/news-document-pipeline-htw-berlin/miscellaneous/blob/master/default.conf)
+
+### Mögliche Verbesserungen
+
+- HTTPS einrichten 
+- Vereinheitlichung der HTTP-Anfragen (fetch / axios)
 
 ## 7. Autoren
 
