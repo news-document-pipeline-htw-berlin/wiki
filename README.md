@@ -91,15 +91,23 @@ geschrieben in Scala
 
 Aufgaben: 
 - Zeitungsartikel nach außen sichtbar machen
+- Userverwaltung 
+- Artikelvorschläge für User generieren
+- Autorendaten nach außen sichtbar machen
 - Analytics aggregieren
 - Elasticsearch-Abfragen (suchen, filtern und aggregieren)
-- GET-Anfragen bearbeiten
+- HTTP-Anfragen (GET, POST, PUT, DELETE) bearbeiten
 - Antwort mit JSON-Daten
 
 geschrieben in Scala mit der [Akka-Library](https://akka.io/)
 
-#### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/HTTP-API)
+#### [=> _Repository/Readme_](https://github.com/news-document-pipeline-htw-berlin/HTTP-API)
 
+### Mögliche Verbesserungen
+
+- Autorendaten aggregieren (ebenfalls mittels Elasticsearch)
+- Artikelvorschläge basierend auf dem Leseverhalten des Users optimieren
+- Artikel (und Autoren) bezüglich Sentiments filtern
 
 ## 6. Frontend
 
