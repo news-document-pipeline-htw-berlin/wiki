@@ -3,7 +3,7 @@
 Implementierung einer Dokumenten-Pipeline für Nachrichtenartikel
 
 
-![alt text](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/I%20News.png "Architecture iNews-Pipeline")
+![alt text](https://github.com/news-document-pipeline-htw-berlin/wiki/blob/master/README.md "Architecture iNews-Pipeline")
 
 
 Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/news-document-pipeline-htw-berlin/wiki/blob/master/Projektstudium_Praesentation_ws2021.pdf) anschauen.
