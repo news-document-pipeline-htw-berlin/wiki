@@ -6,7 +6,7 @@ Implementierung einer Dokumenten-Pipeline für Nachrichtenartikel
 ![alt text](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/I%20News.png "Architecture iNews-Pipeline")
 
 
-Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/FinalePraesentation31_01_2020.pdf) anschauen.
+Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/blob/master/Projektstudium_Praesentation_ws2021.pdf) anschauen.
 
 [=> _Hier_](https://github.com/I-News-Pipeline-HTW-Berlin/wiki/wiki/Sonstiges) ein Überblick über die Virtuelle Maschine und die laufenden Dienste.
 
