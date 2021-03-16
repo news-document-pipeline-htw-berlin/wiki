@@ -20,6 +20,8 @@ aktuell:
 - [taz](https://www.taz.de)
 - [Süddeutsche Zeitung](https://www.sueddeutsche.de)
 - [Heise](https://www.heise.de)
+- [Golem](https://www.golem.de/)
+- [Postillon](https://www.der-postillon.com/)
 
 Technologien:
 - [Scrapy](https://scrapy.org)
