@@ -13,23 +13,24 @@ Zur grafischen Einführung bitte unsere [Präsentation](https://github.com/news-
 
 ## 1. Crawler
 
-Aufgaben: 
-- regelmäßig neue Artikel von News-Seiten “scrapen”, bestimmte Merkmale erfassen und in eine Datenbank schreiben.
+Aufgaben:
+- Regelmäßig ausgewählte News-Seiten nach neuen Artikeln durchsuchen (crawling)
+- Ausgewählte Metadaten und Inhalte der Artikel extrahieren und in eine Datenbank schreiben (scraping)
 
-aktuell: 
+Für die folgenden News-Seiten wurden sog. Spiders umgesetzt: 
 - [taz](https://www.taz.de)
 - [Süddeutsche Zeitung](https://www.sueddeutsche.de)
 - [Heise](https://www.heise.de)
-- [Golem](https://www.golem.de/)
-- [Postillon](https://www.der-postillon.com/)
+- [Golem](https://www.golem.de/) (WiSe 20/21)
+- [Postillon](https://www.der-postillon.com/) (WiSe 20/21)
 
 Technologien:
 - [Scrapy](https://scrapy.org)
+- [Selenium](https://www.selenium.dev/)
 - [mongoDB](https://www.mongodb.com)
 - [Kibana](https://www.elastic.co/kibana) (mit [Elasticsearch](https://www.elastic.co/de/elasticsearch))
 
-geschrieben in Python
-
+geschrieben in [Python](https://www.python.org/).
 #### [=> _Repository/Readme_](https://github.com/I-News-Pipeline-HTW-Berlin/crawler)
 
 
